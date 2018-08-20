@@ -1,11 +1,7 @@
-netfuck
+Discord.BF
 =======
 
-A multithreaded network enabled brainfuck
-
-Usage: python netfuck.py program.bf
-
-The width of a cell has a minimum of 32 bits signed value.
+A Discord API interpretation written in BF
 
 Commands
 --------
@@ -34,6 +30,10 @@ A thread must be green.
 All threads must run in one operating system thread.
 * | Fork, if parent the current cell is 0, else the current cell is 1
 * ~ Sleep for n milliseconds
+
+Discord Commands
+----------------
+None Yet
 
 Handling Error
 --------------
