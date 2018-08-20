@@ -1,7 +1,7 @@
 Discord.BF
 =======
 
-A Discord API interpretation written in BF
+DiscordApp API, Written in Python, enables bots to be written in BF
 
 Commands
 --------
